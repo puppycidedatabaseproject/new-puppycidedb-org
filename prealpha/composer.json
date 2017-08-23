@@ -1,0 +1,12 @@
+{
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/puppycidedatabaseproject/startmin.git"
+        }
+    ],
+    "require": {
+	"secondtruth/startmin": "dev-master",
+        "twbs/bootstrap": "4.0.0-beta"
+    }
+}

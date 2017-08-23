@@ -1,0 +1,17 @@
+{
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/puppycidedatabaseproject/CoreUI-Free-Bootstrap-Admin-Template.git"
+        },
+        {
+            "type": "git",
+            "url": "https://github.com/secondtruth/startmin.git"
+        },
+    ],
+    "require": {
+        "puppycidedatabaseproject/coreui.io": "dev-master",
+	"secondtruth/startmin": "dev-master",
+        "twbs/bootstrap": "4.0.0-beta"
+    }
+}
